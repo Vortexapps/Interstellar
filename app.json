@@ -1,8 +1,8 @@
 {
-  "name": "edu",
-  "description": "?",
+  "name": "Matheducation",
+  "description": "Get free math anywhere here today",
   "repository": "https://github.com/interstellarnetwork/interstellar",
   "logo": "https://avatars.githubusercontent.com/u/103917385",
-  "keywords": ["school", "math"],
+  "keywords": ["maths", "schools"],
   "image": "heroku/nodejs"
 }
